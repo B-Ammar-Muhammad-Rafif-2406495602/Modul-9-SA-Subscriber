@@ -7,4 +7,4 @@ amqp is a standard protocol for sending messages between programs. it defines ho
 first guest = the username to login to rabbitmq
 second guest = the password
 local host = rabbitmq is running on your own machine
-5672 = the port rabbitmq listens on for incoming ocnnections
+5672 = the port rabbitmq listens on for incoming connections
